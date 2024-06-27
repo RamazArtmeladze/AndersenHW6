@@ -6,4 +6,5 @@ out/
 
 # Ignore all files in the target directory
 target/
+!target/AndersenHW6-0.0.1-SNAPSHOT.jar
 
